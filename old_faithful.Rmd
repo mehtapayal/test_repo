@@ -42,7 +42,7 @@ This histogram indicates [Old Faithful isn't as "faithful" as you might think](h
 
 
 Let's look at the relationship between the duration of the previous 
-eruption and how it related to the waiting time until the next eruption.  
+eruption and how it related to the waiting time until the next eruption.  (# Test change)
 
 ```{r}
 faithful %>% 
